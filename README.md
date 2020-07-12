@@ -1,13 +1,3 @@
----
-page_type: whoisoncall
-products:
-- office-365
-languages:
-- javascript
-extensions:
-  contentType: whoisoncall
-  createdDate: 12/5/2017 6:03:13 PM
----
 # WhoIsOnCall
 
 ![](./img.png)
