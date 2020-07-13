@@ -7,7 +7,7 @@ const http = require('http');
 const TEAM_AUTH_ERROR = '{ "type": "message", "text": "Error: message sender cannot be authenticated." }';
 const TEAM_CODE_ERROR = '{ "type": "message", "text": "Error: unknown team code." }';
 const TEAMMap = {
-	"company": {
+	"team1": {
 		api: OnCallAPI,
 		key: MS_TEAM_BOTS_OPSGENIE_TOKEN,
 	},
